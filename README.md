@@ -1,5 +1,3 @@
-![Metrics](https://metrics.lecoq.io/Theophile-Kango)
-
 <!--
 **Theophile-Kango/Theophile-Kango** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Theophile's GitHub stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=theophile-kango&count_private=true&include_all_commits=true&hide=contribs&show_icons=true)](https://github.com/theophile-kango)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theophile-kango&exclude_repo=ualehosaini.github.io,free-for-dev&layout=compact&langs_count=8)](https://github.com/theophile-kango)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theophile-kango&" alt="theophile-kango" /></p>
